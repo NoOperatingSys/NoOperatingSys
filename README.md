@@ -1,12 +1,14 @@
-![NoOS v2.0.0 (tm) by moltncore and mugman](https://raw.githubusercontent.com/NoOperatingSys/Assets/master/Pictures/logo.png)
+![NoOS v1.5.0 (tm) by moltncore and mugman](https://raw.githubusercontent.com/NoOperatingSys/Assets/master/Pictures/logo.png)
 ### Welcome to the NoOS (No Operating System) Github page!
 Here you'll find all of the information you'll need.
 
 ### Build Status:
 [![CI](https://github.com/NoOperatingSys/NoOperatingSystem/actions/workflows/main.yml/badge.svg)](https://github.com/NoOperatingSys/NoOperatingSystem/actions/workflows/main.yml)
+
+
 ### Projects
 These are the projects that we are currently working on:
-1. The No Operating System (NoOS)
+1. The No Operating System (NoOS) - *Version Two*
 2. [Our Website](https://nooperatingsys.github.io/)
 
 ### [Wiki](https://github.com/NoOperatingSys/NoOperatingSystem/wiki)
