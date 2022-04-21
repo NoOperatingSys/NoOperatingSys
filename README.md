@@ -2,6 +2,9 @@
 ### Welcome to the NoOS (No Operating System) Github page!
 Here you'll find all of the information you'll need.
 
+### UPDATE
+Everything will now happen on v2 branch
+
 ### Build Status:
 [![CI](https://github.com/NoOperatingSys/NoOperatingSystem/actions/workflows/main.yml/badge.svg)](https://github.com/NoOperatingSys/NoOperatingSystem/actions/workflows/main.yml)
 
