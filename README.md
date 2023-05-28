@@ -12,7 +12,7 @@ Everything will now happen on v2 branch
 ### Projects
 These are the projects that we are currently working on:
 1. The No Operating System (NoOS) - *Version Two*
-2. [Our Website](https://nooperatingsys.github.io/)
+<!--2. [Our Website](https://nooperatingsys.github.io/)-->
 
 ### [Wiki](https://github.com/NoOperatingSys/NoOperatingSystem/wiki)
 The wiki has info about the built-in commands, features, and more. That should be the main place for help.
